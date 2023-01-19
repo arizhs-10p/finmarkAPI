@@ -1,0 +1,15 @@
+
+{
+"baseUrl" : "http://tst.finmark.com",
+"env" : {
+   "email" : "cypressapitest@yopmail.com",
+    "password" : "10@Pearls",
+    "serverUrl" : "http://tst.finmark.com" 
+}
+,"experimentalStudio": true
+
+
+
+
+
+}
